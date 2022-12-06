@@ -1,0 +1,4 @@
+variables:
+- team: cloudbees-cli
+- admin-user: hiroatsu-admin
+- manager-user: hiroatsu
